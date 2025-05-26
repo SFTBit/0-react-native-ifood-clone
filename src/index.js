@@ -5,7 +5,7 @@ import {
 
 import '~/config/ReactotronConfig';
 
-import Routes from '~/routes';
+import Routes from '~/navigation/routes';
 
 const STATUSBAR_HEIGHT = Platform.OS === 'ios' ? 20 : StatusBar.currentHeight;
 
