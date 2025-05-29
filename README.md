@@ -26,7 +26,7 @@ Um aplicativo em React Native que replica funcionalidades chave do iFood, desenv
 
 ```bash
 # 1. Clone este repositório
-git clone <URL_DO_SEU_REPOSITORIO_AQUI> # Substitua pela URL real do seu repositório
+git clone https://github.com/SFTBit/ # Substitua pela URL real do seu repositório
 cd clone-ifood-react-native # Ou o nome da pasta do seu projeto
 
 # 2. Instale as dependências
